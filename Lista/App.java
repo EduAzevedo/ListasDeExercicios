@@ -38,7 +38,7 @@ public class App {
             list.get(pos).aumentarSalario(percentage);
 
         } else {
-            System.out.println("ID não encontrado!");
+            System.out.println("\nID não encontrado!");
         }
 
         System.out.println("\nLista de empregados: ");
